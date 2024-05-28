@@ -1,4 +1,5 @@
-Hola devs, soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de software en 6to semestre, tengo conocimientos en diferentes tecnologias tales como:
+# ¡Hola! 👋
+Soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de software en 6to semestre, tengo conocimientos en diferentes tecnologias tales como:
 
 - **Lenguajes de programación**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Framework**: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -10,6 +11,6 @@ Hola devs, soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de 
 ## Contacto
 ¡Conéctate conmigo en LinkedIn 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&amp;logo=linkedin)](https://www.linkedin.com/in/luisfelipediazc/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipediazc/)
 
 ¡Gracias por visitar mi perfil! 😊
