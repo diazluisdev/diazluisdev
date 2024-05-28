@@ -1,16 +1,15 @@
-## Hi there 👋
+Hola devs, soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de software en 6to semestre, tengo conocimientos en diferentes tecnologias tales como:
 
-<!--
-**felocodedev/felocodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lenguajes de programación**: !Java
+- **Framework**: !Spring Boot
+- **Bases de datos**: !MySQL !PostgreSQL
+- **Herramientas de desarrollo**: !Git !VS Code !IntelliJ IDEA !NetBeans
+- **Administración**: !AWS
+- **Metodologías**: !Agile
+  
+## Contacto
+¡Conéctate conmigo en LinkedIn 
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&amp;logo=linkedin)](https://www.linkedin.com/in/luisfelipediazc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! 😊
