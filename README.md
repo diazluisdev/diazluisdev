@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-Soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de software en 6to semestre, tengo conocimientos en diferentes tecnologias tales como:
+Soy Luis Felipe Diaz Cabana, estudiante de Ingeniería de Software con un gran interés en el desarrollo web backend y la ciberseguridad. Estoy siempre en busca de nuevas oportunidades para aprender y colaborar en proyectos desafiantes. Tengo conocimientos en diferentes tecnologias tales como:
 
 - **Lenguajes de programación**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Framework**: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -9,7 +9,7 @@ Soy Luis Felipe Diaz Cabana, actualmente estudiante de ingenieria de software en
 - **Metodologías**: ![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-green)
   
 ## Contacto
-¡Conéctate conmigo en LinkedIn 
+¡Conéctate conmigo en LinkedIn! 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelipediazc/)
 
